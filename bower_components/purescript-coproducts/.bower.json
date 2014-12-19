@@ -1,0 +1,33 @@
+{
+  "name": "purescript-coproducts",
+  "keywords": [
+    "purescript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "output",
+    "tests",
+    "tmp",
+    "bower.json",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "dependencies": {
+    "purescript-either": "~0.1.4",
+    "purescript-foldable-traversable": "~0.1.4"
+  },
+  "homepage": "https://github.com/purescript-contrib/purescript-coproducts",
+  "version": "0.1.0",
+  "_release": "0.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.1.0",
+    "commit": "9fd70c4f08c02881fafc74746dfc89fa85d46a99"
+  },
+  "_source": "git://github.com/purescript-contrib/purescript-coproducts.git",
+  "_target": "~0.1.0",
+  "_originalSource": "purescript-coproducts"
+}

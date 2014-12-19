@@ -1,0 +1,36 @@
+{
+  "name": "purescript-enums",
+  "homepage": "https://github.com/purescript/purescript-enums",
+  "description": "Operations for sequentially ordered types",
+  "keywords": [
+    "purescript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "output",
+    "tests",
+    "tmp",
+    "bower.json",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "dependencies": {
+    "purescript-maybe": "~0.2.1",
+    "purescript-tuples": "~0.2.1",
+    "purescript-either": "~0.1.3",
+    "purescript-strings": "~0.4.0"
+  },
+  "version": "0.2.4",
+  "_release": "0.2.4",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.2.4",
+    "commit": "31b93d0571e46ec01d76a1acae1a57b8be20ddfc"
+  },
+  "_source": "git://github.com/purescript/purescript-enums.git",
+  "_target": "~0.2.4",
+  "_originalSource": "purescript-enums"
+}

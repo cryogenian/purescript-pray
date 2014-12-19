@@ -1,0 +1,31 @@
+{
+  "name": "purescript-inject",
+  "homepage": "https://github.com/purescript-contrib/purescript-inject",
+  "description": "Inject typeclass",
+  "keywords": [
+    "purescript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "examples",
+    "dist"
+  ],
+  "dependencies": {
+    "purescript-coproducts": "0.1.0",
+    "purescript-either": "0.1.4",
+    "purescript-maybe": "0.2.1"
+  },
+  "version": "0.0.2",
+  "_release": "0.0.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.2",
+    "commit": "5437103e7a305170a57cb959e5a8f78233db4d22"
+  },
+  "_source": "git://github.com/purescript-contrib/purescript-inject.git",
+  "_target": "~0.0.2",
+  "_originalSource": "purescript-inject"
+}

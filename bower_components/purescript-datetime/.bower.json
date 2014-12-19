@@ -1,0 +1,40 @@
+{
+  "name": "purescript-datetime",
+  "homepage": "https://github.com/purescript-contrib/purescript-datetime",
+  "authors": [
+    "Gary Burgess <gary.burgess@gmail.com>"
+  ],
+  "description": "PureScript library for date and time values",
+  "keywords": [
+    "purescript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "examples",
+    "node_modules",
+    "output",
+    "tests",
+    "tmp",
+    "bower.json",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "dependencies": {
+    "purescript-enums": "~0.2.4",
+    "purescript-maybe": "~0.2.1",
+    "purescript-globals": "~0.1.5"
+  },
+  "version": "0.1.2",
+  "_release": "0.1.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.1.2",
+    "commit": "b16ae0fb8d4c8d26c3bd95ad5a9af8480d4b8328"
+  },
+  "_source": "git://github.com/purescript/purescript-datetime.git",
+  "_target": "~0.1.2",
+  "_originalSource": "purescript-datetime",
+  "_direct": true
+}

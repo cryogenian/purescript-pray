@@ -1,0 +1,34 @@
+{
+  "name": "purescript-pray",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cryogenian/purescript-pray",
+  "authors": [
+    "Maxim Zimaliev <zimaliev@gmail.com>"
+  ],
+  "description": "reactjs purescript binding prototype",
+  "keywords": [
+    "purescript",
+    "reactjs",
+    "dsl"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-datetime": "~0.1.2",
+    "purescript-arrays": "~0.3.0",
+    "purescript-transformers": "~0.3.2",
+    "purescript-exists": "~0.1.0",
+    "purescript-dom": "~0.1.1",
+    "purescript-free": "~0.1.6"
+  },
+  "devDependencies": {
+    "purescript-tuples": "~0.2.3",
+    "purescript-maybe": "~0.2.1"
+  }
+}

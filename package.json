@@ -1,0 +1,36 @@
+{
+  "name": "purescript-pray",
+  "version": "0.0.0",
+  "description": "reactjs binding prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cryogenian/purescript-pray.git"
+  },
+  "keywords": [
+    "purescript",
+    "reactjs",
+    "dsl"
+  ],
+  "author": "Maxim Zimaliev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cryogenian/purescript-pray/issues"
+  },
+  "homepage": "https://github.com/cryogenian/purescript-pray",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-browserify": "^0.5.0",
+    "gulp-concat": "^2.4.2",
+    "gulp-purescript": "^0.1.2",
+    "lodash": "^2.4.1",
+    "underscore.string": "^2.4.0",
+    "watchify": "^2.2.1"
+  },
+  "dependencies": {
+    "react": "^0.12.2"
+  }
+}
