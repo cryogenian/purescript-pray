@@ -50,3 +50,11 @@ gulp.task("build", ["compile", "bundle"]);
 gulp.task("dev", ["build"], function() {
     gulp.watch(src, ["build"]);
 });
+
+gulp.task("docs", function() {
+    var gen = purescript.pscDocs();
+    onError(gen);
+    return gulp.src(["src/**/*.purs"])
+        .pipe(gen)
+        .pipe(gulp.dest("MODULES.md"));
+});
